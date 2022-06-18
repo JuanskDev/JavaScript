@@ -1,3 +1,6 @@
+/*  Une todos los elementos de un array en una cadena. 
+Podemos pasarle como parámetro el carácter de separación que debe agregar entre los elementos. */
+
 let dias = ["Lunes","Miercoles","Viernes"];
 
 let separadosPorComa = dias.join();

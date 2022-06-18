@@ -1,3 +1,5 @@
+// Permite recorrer el array y modificar los elementos presentes en él, retornando un nuevo array con la misma longitud que el original.
+
 let numeros = [2,3,4,5];
 let porMil = numeros.map(function (num) {
     return num * 1000;
